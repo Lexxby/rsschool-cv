@@ -72,7 +72,7 @@ tasksList.addEventListener('click', (event) => {
 
 **[Vladilen Inc: JavaScript Junior Frontend Developer](https://vladilen.ru/junior)** - (in progress)
 
-**RS Schools Course «JavaScript/Front-end. Stage 0** - (in progress)
+**RS Schools Course «JavaScript/Front-end. Stage 0** - (finished)
 
 **RS Schools Course «JavaScript/Front-end. Stage 1** - (planned)
 
