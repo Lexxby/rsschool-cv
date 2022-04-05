@@ -1,0 +1,94 @@
+pre {
+  border: 1px solid #ccc;
+  word-wrap: break-word;
+  line-height: 19px;
+  margin-bottom: 20px;
+}
+pre code {
+  border: 0;
+  padding: 0;
+  margin: 0;
+  border-radius: 0;
+}
+code {
+  border: 1px solid #eaeaea;
+  margin: 0px 2px;
+  padding: 0px 5px;
+  font-size: 12px;
+}
+pre,
+code {
+  font-family: Consolas, 'Liberation Mono', Courier, monospace;
+  color: #8199b7;
+  background: #f8f8f8;
+  border-radius: 3px;
+}
+pre,
+pre code {
+  font-size: 13px;
+}
+pre .comment {
+  color: #998;
+}
+pre .support {
+  color: #0086b3;
+}
+pre .tag,
+pre .tag-name {
+  color: navy;
+}
+pre .keyword,
+pre .css-property,
+pre .vendor-fix,
+pre .sass,
+pre .class,
+pre .id,
+pre .css-value,
+pre .entity.function,
+pre .storage.function {
+  font-weight: bold;
+}
+pre .css-property,
+pre .css-value,
+pre .vendor-fix,
+pre .support.namespace {
+  color: #8199b7;
+}
+
+pre .storage.type {
+  color: #4d29ec;
+}
+
+pre .function.call {
+  color: #b2b41f;
+}
+pre .keyword {
+  color: #9124a0;
+}
+
+pre .constant.numeric,
+pre .keyword.unit,
+pre .hex-color {
+  font-weight: normal;
+  color: #099;
+  color: #099;
+}
+pre .entity.class {
+  color: #458;
+}
+pre .entity.id,
+pre .entity.function {
+  color: #900;
+}
+pre .attribute,
+pre .variable {
+  color: teal;
+}
+pre .string,
+pre .support.value {
+  font-weight: normal;
+  color: #d14;
+}
+pre .regexp {
+  color: #009926;
+}
